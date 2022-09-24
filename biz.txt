@@ -1,0 +1,47 @@
+1. Water kiosk
+2. Coffee shop
+3.
+4. Car wash
+5. Fish shop
+6. Milk shop
+
+MILK SHOP
+-medium freezer
+-milk atm
+-furniture and fittings
+-permits and licences
+-stoves and jikos
+-approx 100k
+
+COFFEE SHOP
+-coffee
+-coffee maker
+-stoves and jikos
+-furniture and fittings
+-permits
+-cutlery
+-approx 100k
+
+FISH SHOP
+-medium size freezer
+-furniture and fittings
+-jiko
+-permits
+-approx 100k
+
+CAR WASH
+-location
+-site service
+-lease
+-diesel/electric wash machine
+-permits
+-labour
+-approx 100k
+
+WATER KIOSK
+-water filtration machine
+-permits
+-labour
+-water storage tank
+-water supplier
+-approx 300k
